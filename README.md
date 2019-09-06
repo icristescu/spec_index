@@ -1,1 +1,2 @@
-# spec_index
+
+This is a specification in TLA for mirage/index.  
